@@ -28,9 +28,9 @@ span#title {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  animation: shine 10s linear infinite;
+  animation: gradtxt 10s linear infinite;
 }
-@keyframes shine {
+@keyframes gradtxt {
   to {
     background-position: 200% center;
   }
